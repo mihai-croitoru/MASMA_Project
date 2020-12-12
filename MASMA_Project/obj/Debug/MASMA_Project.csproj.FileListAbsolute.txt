@@ -1,0 +1,52 @@
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe.config
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.pdb
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\ActressMas.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.Base.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.Pdf.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.WebBrowser.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.WebEngine.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.pdb
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.Base.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.Pdf.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.WebBrowser.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\EO.WebEngine.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csproj.CopyComplete
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.exe
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.pdb
+C:\Users\mihai\Documents\GitHub\MASMA_project\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe.config
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.pdb
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\ActressMas.dll
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csproj.CopyComplete
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.exe
+C:\Users\mihai\Desktop\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.pdb
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe.config
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.exe
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\MASMA_Project.pdb
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\ActressMas.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.Base.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.Pdf.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.WebBrowser.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.WebEngine.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.pdb
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\ControlzEx.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.Base.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.Pdf.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.WebBrowser.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\EO.WebEngine.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.csproj.CopyComplete
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.exe
+C:\Users\mihai\Desktop\UNI Master An 2\MASMA\Proiect Masma\MASMA_Project\MASMA_Project\obj\Debug\MASMA_Project.pdb
